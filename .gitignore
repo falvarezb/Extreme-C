@@ -5,3 +5,6 @@ build
 *.out
 *.swp
 .DS_Store
+.vscode/
+out/
+*.code-workspace
